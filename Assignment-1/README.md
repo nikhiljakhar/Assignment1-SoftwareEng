@@ -74,6 +74,8 @@ The source code makes use of the following clean coding prcatices:-
 + Added validation functions in place of if conditions.
 + Removed redundant code.
 + Changed variable names to convey their use.
-+ Structured if/else conditions to make them more readable. 
++ Structured if/else conditions to make them more readable.
++ Added unit test cases to test methods of different classes.
+
 
 ![Directory Structure](https://github.com/nikhiljakhar/Assignment1-SoftwareEng/blob/master/Assignment-1/83545022_650622812348044_5480953340047130624_n.png)
