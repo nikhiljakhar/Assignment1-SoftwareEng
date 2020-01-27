@@ -76,4 +76,4 @@ The source code makes use of the following clean coding prcatices:-
 + Changed variable names to convey their use.
 + Structured if/else conditions to make them more readable. 
 
-![alt text](https://drive.google.com/file/d/1qTF2hq6XODoE3bQK2oRIUyro4o2YpCao/view?usp=sharing)
+![Directory Structure](https://github.com/nikhiljakhar/Assignment1-SoftwareEng/blob/master/Assignment-1/83545022_650622812348044_5480953340047130624_n.png)
