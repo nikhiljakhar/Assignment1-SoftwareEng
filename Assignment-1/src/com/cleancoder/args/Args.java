@@ -1,6 +1,6 @@
 package com.cleancoder.args;
 
-import java.util.*;
+import static java.util.*;
 
 import static com.cleancoder.args.ArgsException.ErrorCode.*;
 
